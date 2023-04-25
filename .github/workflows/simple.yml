@@ -1,4 +1,4 @@
-name: Shell Commands 
+name: 1st simple Workflow 
 
 on: [pull_request]
 
