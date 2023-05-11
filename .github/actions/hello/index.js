@@ -11,7 +11,6 @@ try {
     core.setOutput("time", time);
     console.log(`time in action log ${time}!`);
 
-
     const payload = JSON.stringify(github, null, "\t");
     console.log(`The event payload: ${payload}`);
 
