@@ -1,3 +1,4 @@
+name: PRIVATE_Custom_action
 on: push
 jobs:
   testing-own-action:
