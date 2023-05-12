@@ -9794,7 +9794,7 @@ const github = __nccwpck_require__(289);
 
 try {
 
-    throw new Error("Custom Error from my action");
+   // throw new Error("Custom Error from my action");
     const nameToGreet = core.getInput('who-to-greet');
     console.log(`Hello ${nameToGreet}!`);
 
